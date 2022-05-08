@@ -1,4 +1,5 @@
 
+# cargo build
 ```
 ablack94@ab-ubuntu-laptop:~/t3test$ cargo build
    Compiling t3 v0.1.0 (/home/ablack94/t3test)
@@ -91,6 +92,7 @@ error: could not compile `t3` due to 3 previous errors; 2 warnings emitted
 
 ```
 
+# rustc works.rs
 ```
 ablack94@ab-ubuntu-laptop:~/t3test$ rustc works.rs 
 warning: unused variable: `deposit_keys`
