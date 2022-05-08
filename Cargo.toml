@@ -1,0 +1,11 @@
+[package]
+name="t3"
+version="0.1.0"
+edition="2021"
+
+[lib]
+name="t3"
+
+[dependencies]
+solana-program = ">=1.6.9"
+
